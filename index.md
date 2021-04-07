@@ -38,6 +38,8 @@
 - a problem shared is a problem halved
 - sticks in a bundle are unbreakable
 - united we stand, divided we fall
+- actions speak louder than words
+
 
 
 
