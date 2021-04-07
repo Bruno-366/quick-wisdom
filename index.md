@@ -29,4 +29,5 @@
 - once bitten, twice shy
 - a burnt child dreads the fire
 - a cat in gloves catches no mice
+- the nail that sticks out gets hammered down
 
