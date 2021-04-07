@@ -35,5 +35,9 @@
 - a man is known by the company he keeps
 - opposites attract
 - a smooth sea never made a skilled sailor
+- a problem shared is a problem halved
+- sticks in a bundle are unbreakable
+- united we stand, divided we fall
+
 
 
