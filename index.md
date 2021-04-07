@@ -34,5 +34,6 @@
 - the nail that sticks out gets hammered down
 - a man is known by the company he keeps
 - opposites attract
+- a smooth sea never made a skilled sailor
 
 
