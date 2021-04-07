@@ -25,21 +25,26 @@
 - if you find yourself in a hole, the first thing to do is stop digging
 - a drowning man will clutch at straws
 - beggars can't be choosers
+- a buck is a buck is a buck
+- a smooth sea never made a skilled sailor
+
 - a danger foreseen is half avoided
-- a leopard cannot change its spots
 - once bitten, twice shy
 - a burnt child dreads the fire
 - a cat in gloves catches no mice
-- a buck is a buck is a buck
+
 - a poor workman blames his tools
+- actions speak louder than words
+
 - the nail that sticks out gets hammered down
 - a man is known by the company he keeps
 - opposites attract
-- a smooth sea never made a skilled sailor
+- a leopard cannot change its spots
+
 - a problem shared is a problem halved
 - sticks in a bundle are unbreakable
 - united we stand, divided we fall
-- actions speak louder than words
+
 
 
 
