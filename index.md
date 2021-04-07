@@ -24,6 +24,7 @@
 
 - if you find yourself in a hole, the first thing to do is stop digging
 - a drowning man will clutch at straws
+- beggars can't be choosers
 - a danger foreseen is half avoided
 - a leopard cannot change its spots
 - once bitten, twice shy
