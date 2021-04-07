@@ -25,3 +25,4 @@
 - a buck is a buck is a buck
 - a drowning man will clutch at straws
 - a leopard cannot change its spots
+- a poor workman blames his tools
