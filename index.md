@@ -26,3 +26,7 @@
 - a drowning man will clutch at straws
 - a leopard cannot change its spots
 - a poor workman blames his tools
+- once bitten, twice shy
+- a burnt child dreads the fire
+- a cat in gloves catches no mice
+
