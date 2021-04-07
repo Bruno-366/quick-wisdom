@@ -19,6 +19,9 @@
 |         | Big ball of mud          |
 |         | Spaghetti code           |
 
+## Proverbs
 
-
-
+- if you find yourself in a hole, the first thing to do is stop digging
+- a buck is a buck is a buck
+- a drowning man will clutch at straws
+- a leopard cannot change its spots
