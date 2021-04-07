@@ -12,6 +12,9 @@
 |         | (Write programs that) Work Together |
 |         | (Write programs that) handle text, because that is a universal interface |
 |         | Everything is a file    |
+|         | Bike-shedding           |
+|         | Yak shaving             |
+
 
 
 
