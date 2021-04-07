@@ -16,6 +16,8 @@
 |         | Yak shaving             |
 |         | Small is beautiful.
 |         | Choose portability over efficiency |
+|         | Big ball of mud          |
+|         | Spaghetti code           |
 
 
 
