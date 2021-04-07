@@ -23,14 +23,14 @@
 ## Proverbs
 
 - if you find yourself in a hole, the first thing to do is stop digging
-- a buck is a buck is a buck
 - a drowning man will clutch at straws
-- a leopard cannot change its spots
-- a poor workman blames his tools
 - a danger foreseen is half avoided
+- a leopard cannot change its spots
 - once bitten, twice shy
 - a burnt child dreads the fire
 - a cat in gloves catches no mice
+- a buck is a buck is a buck
+- a poor workman blames his tools
 - the nail that sticks out gets hammered down
 - a man is known by the company he keeps
 - opposites attract
