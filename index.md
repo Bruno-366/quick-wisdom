@@ -18,6 +18,7 @@
 |         | Choose portability over efficiency |
 |         | Big ball of mud          |
 |         | Spaghetti code           |
+| NIH     | Not invented here        |
 
 ## Proverbs
 
