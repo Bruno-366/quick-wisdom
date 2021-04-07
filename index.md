@@ -8,7 +8,9 @@
 |         | Worse is better         |
 | YAGNI   | You aren't gonna need it |
 | DRY     | Don't repeat yourself   |
-|         | Do One Thing and Do It Well |
+|         | (Write programs that) Do One Thing and Do It Well |
+|         | (Write programs that) Work Together |
+|         | (Write programs that) handle text, because that is a universal interface |
 |         | Everything is a file    |
 
 
