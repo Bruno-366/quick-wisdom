@@ -14,6 +14,8 @@
 |         | Everything is a file    |
 |         | Bike-shedding           |
 |         | Yak shaving             |
+|         | Small is beautiful.
+|         | Choose portability over efficiency |
 
 
 
