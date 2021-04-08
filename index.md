@@ -29,7 +29,7 @@
 - a buck is a buck is a buck
 - a smooth sea never made a skilled sailor
 
-#### Prevention
+### Prevention
 - a danger foreseen is half avoided
 - once bitten, twice shy
 - a burnt child dreads the fire
