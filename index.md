@@ -44,6 +44,7 @@
 - a man is known by the company he keeps
 - opposites attract
 - a leopard cannot change its spots
+- a stopped clock is right twice a day
 
 ### Teamwork
 - a problem shared is a problem halved
