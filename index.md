@@ -22,7 +22,7 @@
 
 ## Quotes
 
-> The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
+> The ability to simplify means to eliminate the unnecessary so that the necessary may speak. \
 > ~ https://en.wikiquote.org/wiki/Hans_Hofmann#1970s_and_later
 
 >> Rob Pike's 5 Rules:
