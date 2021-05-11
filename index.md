@@ -22,6 +22,8 @@
 
 ## Quotes
 
+> The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
+> ~ https://en.wikiquote.org/wiki/Hans_Hofmann#1970s_and_later
 
 >> Rob Pike's 5 Rules:
 >> 1. You can't tell where a program is going to spend its time. \
@@ -65,6 +67,62 @@
 
 > Smart data structures and dumb code works a lot better than the other way around. \
 > ~ Eric S. Raymond, The Cathedral and The Bazaar
+
+> The purpose of abstraction is not to be vague, \
+> but to create a new semantic level in which one can be absolutely precise. \
+> ~ Edsger W. Dijkstra, "The Humble Programmer" (1972)
+
+> Refactoring provides enough energy to a system for it to relax into a new and more comfortable state, \
+> a new local minimum. \
+> ~ Kevlin Henney, "The Imperial Clothing Crisis" (2002)
+
+> Beauty is more important in computing than anywhere else in technology because software is so complicated. \
+> Beauty is the ultimate defense against complexity. \
+> ~ David Gelernter, "Machine Beauty", Basic Books (1998)
+
+> Fools ignore complexity; \
+> pragmatists suffer it; \
+> experts avoid it; \
+> geniuses remove it. \
+> ~ Alan Perlis
+
+> There are two ways of constructing a software design. \
+> One way is to make it so simple that there are obviously no deficiencies. \
+> And the other way is to make it so complicated that there are no obvious deficiencies. \
+> ~ C.A.R. Hoare
+
+> If you cannot grok the overall structure of a program while taking a shower, \
+> you are not ready to code it. \
+> ~ Richard E. Pattis
+
+> Testing by itself does not improve software quality. \
+> Test results are an indicator of quality, but in and of themselves, they don't improve it. \
+> Trying to improve software quality by increasing the amount of testing is like trying to lose weight by weighing yourself more often. \
+> What you eat before you step onto the scale determines how much you will weigh, \
+> and the software development techniques you use determine how many errors testing will find. \
+> If you want to lose weight, don't buy a new scale; change your diet. \
+> If you want to improve your software, don't test more; develop better. \
+> ~ Steve McConnell, "Code Complete"
+
+> Ugly programs are like ugly suspension bridges: \
+> they're much more liable to collapse than pretty ones, \
+> because the way humans (especially engineer-humans) perceive beauty is intimately related to our ability to process and understand complexity. \
+> A language that makes it hard to write elegant code makes it hard to write good code. \
+> ~ Eric S. Raymond
+
+Some comic relief:
+
+> The most likely way for the world to be destroyed, \
+> most experts agree, is by accident. \
+> That's where we come in; we're computer professionals. \
+> We cause accidents. \
+> ~ Nathaniel S. Borenstein
+
+> Computer Science is the only discipline in which we view adding a new wing to a building as being maintenance. \
+> ~ Jim Horning
+
+
+
 
 See also: http://www.jbox.dk/quotations.htm
 
