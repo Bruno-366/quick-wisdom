@@ -23,7 +23,7 @@
 ## Quotes
 
 > The ability to simplify means to eliminate the unnecessary so that the necessary may speak. \
-> ~ https://en.wikiquote.org/wiki/Hans_Hofmann#1970s_and_later
+> ~ <https://en.wikiquote.org/wiki/Hans_Hofmann#1970s_and_later>
 
 >> Rob Pike's 5 Rules:
 >> 1. You can't tell where a program is going to spend its time. \
@@ -49,14 +49,14 @@
 > Rules 3 and 4 are instances of the design philosophy KISS. \
 > Rule 5 was previously stated by Fred Brooks in The Mythical Man-Month. \
 > Rule 5 is often shortened to "write stupid code that uses smart objects". \
-> ~ http://users.ece.utexas.edu/~adnan/pike.html 
+> ~ <http://users.ece.utexas.edu/~adnan/pike.html> 
 
 > Show me your flowcharts and conceal your tables, \
 > and I shall continue to be mystified. \
 > Show me your tables, \
 > and I won’t usually need your flowcharts; \
 > they’ll be obvious. \
-> ~ https://en.wikiquote.org/wiki/Fred_Brooks
+> ~ <https://en.wikiquote.org/wiki/Fred_Brooks>
 
 > Show me your code and conceal your data structures, \
 > and I shall continue to be mystified. \
@@ -124,7 +124,7 @@ Some comic relief:
 
 
 
-See also: http://www.jbox.dk/quotations.htm
+See also: <http://www.jbox.dk/quotations.htm>
 
 
 ## Proverbs
