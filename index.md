@@ -10,7 +10,7 @@
 | DRY     | Don't repeat yourself   |
 |         | (Write programs that) Do One Thing and Do It Well |
 |         | (Write programs that) Work Together |
-|         | (Write programs that) handle text, because that is a universal interface |
+|         | (Write programs that) handle text, because that is an universal interface |
 |         | Everything is a file    |
 |         | Bike-shedding           |
 |         | Yak shaving             |
